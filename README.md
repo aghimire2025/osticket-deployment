@@ -91,8 +91,8 @@ This Project outlines the deployment of Windows 11 Pro Virtual Machine in Azure 
 </p>
 <p>
 • Verified successful deployment:  </br>
-o	Admin Login: http://localhost/osTicket/scp/login.php </br>
-o	End User Portal: http://localhost/osTicket/
+ o	Admin Login: http://localhost/osTicket/scp/login.php </br>
+ o	End User Portal: http://localhost/osTicket/
 
 </p>
 <br />
